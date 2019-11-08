@@ -1,6 +1,6 @@
 {
   "name": "Site Cleaner",
-  "version": "1.0",
+  "version": "0.0.1",
   "description": "Performs the same action as the 'Clear site data' button found in the Chrome DevTools.",
   "permissions": ["browsingData", "tabs"],
   "background": {
